@@ -1,0 +1,2 @@
+All projects in the [Dask-Contrib GitHub organization](https://github.com/dask-contrib) are
+expected to conform to the [Dask Code of Conduct](https://github.com/dask/governance/blob/main/code-of-conduct.md).
